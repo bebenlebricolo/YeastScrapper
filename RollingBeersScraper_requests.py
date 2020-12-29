@@ -184,21 +184,23 @@ def parse_yeast(yeast : Yeast) :
     try :
         yeast.floculation = floculation.nextSibling
     except (AttributeError) :
-        yeast.floculation = "Parsing error"
+        yeast.floculation = "NA"
     try :
         yeast.attenuation_range[0] = attenuation.nextSibling
     except (AttributeError) :
-        yeast.attenuation_range[0] = "Parsing error"
+        yeast.attenuation_range[0] = "NA"
+        yeast.attenuation_range[1] = "NA"
 
     try :
         yeast.temp_range[0] = temperature.nextSibling
     except (AttributeError) :
-        yeast.temp_range[0] = "Parsing error"
+        yeast.temp_range[0] = "NA"
+        yeast.temp_range[1] = "NA"
 
     try :
         yeast.abv_tol = abv.nextSibling
     except (AttributeError) :
-        yeast.abv_tol = "Parsing error"
+        yeast.abv_tol = "NA"
 
     return yeast
 
