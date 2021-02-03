@@ -244,7 +244,7 @@ def main(args):
 
     yeasts = removed_mislabled_yeasts(yeasts, mislabled_yeasts)
 
-    if parsed_args['json'] is not None:
+    if 'json' in parsed_args.keys() and parsed_args['json'] == True :
         content = json.dumps([ob.get_dict() for ob in yeasts], indent=4, ensure_ascii=False)
         with open('yeasts.json','w') as file :
             file.writelines(content)
