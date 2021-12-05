@@ -137,8 +137,20 @@ class NotAYeastError(Exception):
 
 # Finds all available yeasts with their names and links to their description page
 def parse_page(page_link, yeasts : list) :
-    page = requests.get(page_link)
-    contents = page.content
+
+    reqUrl = "https://www.rolling-beers.fr/fr/55-toutes-les-liquides"
+    headersList = {
+     "Accept": "*/*",
+     "User-Agent": "Thunder Client (https://www.thunderclient.io)"
+    }
+    payload = ""
+
+    response = requests.request("GET", reqUrl, data=payload,  headers=headersList)
+    print(response.status_code)
+    with open("/tmp/page.json", "w") as file :
+        file.writelines(json.dumps(response.text))
+
+    contents = response.content
     soup = BeautifulSoup(contents, 'html.parser')
 
     for elem in soup.find_all('div', href=False, attrs={'class' : 'kl-title-aff'}) :
