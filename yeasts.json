@@ -1,1 +1,2637 @@
-[]
+[
+    {
+        "name": "WYEAST 1056 AMERICAN ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/79-wyeast-1056-american-ale.html",
+        "abv_tol": "11%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "22°C"
+        ],
+        "description": "Caractéristiques de saveur très propres, craquantes avec un fruité faible et une production d'ester douce. Une levure très polyvalente pour les styles necessitant une dominante portée sur le malt et le houblon. Cette souche fait une merveilleuse souche \"Maison\". De douces notes d'agrumes se développent avec des fermentations plus froides à 15-19 ºC. Exige une filtration pour des bières limpides/brillantes."
+    },
+    {
+        "name": "WYEAST 1214 BELGIAN ABBEY",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/124-wyeast-1214-belgian-abbey.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "74%",
+            "78%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "20°C",
+            "24°C"
+        ],
+        "description": "Largement utilisée et tolérante à l'alcool, la levure d'Abbaye est appropriée pour une variété de bières de style belges. Cette souche produit un profil d'ester agréable ainsi que des notes d'alcool légèrement épicées. Elle peut être lente à démarrer mais elle a cependant une bonne atténuation."
+    },
+    {
+        "name": "WYEAST 1272 AMERICAN ALE II",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/84-wyeast-1272-american-ale-ii.html",
+        "abv_tol": "10%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "72%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "22°C"
+        ],
+        "description": "Avec beaucoup des meilleures qualités que les brasseurs recherchent en couvant les styles de bière américains, la performance de cette souche est cohérente et elle produit de grandes bières. Cette souche polyvalente est un très bon choix pour une souche \"Maison\". Attendez-vous à un profil doux, propre avec des allusions de noix et une fin légèrement âpre. Fermentez à des températures plus élevées pour accentuer le caractère houblonné avec une augmentation du coté fruité. Ou fermentez à des températures plus basses pour un caractère plus clean et d'agrumes léger. Elle atténue bien et floccule de façon fiable, produisant une bière brillante sans filtration."
+    },
+    {
+        "name": "WYEAST 1388 BELGIAN STRONG ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/125-wyeast-1388-belgian-strong-ale.html",
+        "abv_tol": "13%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "74%",
+            "78%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "27°C"
+        ],
+        "description": "Le choix classique pour la préparation de bières fortes blondes. Cette souche tolérante à l'alcool produira un profil d'ester complexe, élegamment équilibré, avec de subtils phenols. Les saveurs de malt et les arômes resteront même avec une finition sèche, âpre bien atténuée. Cette souche est encline au fait de caler à environ 1.035; le rayonnage ou l'aération légère l'encourageront à finir la fermentation."
+    },
+    {
+        "name": "WYEAST 1450 DENNY'S FAVORITE 50",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/992-wyeast-1450-denny-s-favorite-50.html",
+        "abv_tol": "NA",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "74%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "21°C"
+        ],
+        "description": "Cette levure générale peut être utilisée pour presque n'importe quel style de bière et est un soutien pour le brasseur amateur."
+    },
+    {
+        "name": "WYEAST 3068 WEIHENS.WHEAT",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/112-wyeast-3068-weihenswheat.html",
+        "abv_tol": "10%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "La souche de bière de blé allemande classique la plus populaire utilisée dans le monde entier. Cette souche de levure produit un bel et délicat équilibre d'esters de banane et de clou de girofle phenolics. L'équilibre peut être manipulé vers la production d'ester par l'augmentation de la température de fermentation, l'augmentation de la densité de moût et la diminution du taux d'ensemencement. Le sur-ensemencement peut aboutir à une perte presque complète du caractère de banane. La diminution de ce niveau d'ester permettra à un caractère de clou de girofle d'être perçue alors de façon prédominante. Du soufre est généralement produit, mais se dissipera avec le conditionnement. Cette souche est très pulvérulente et restera en suspension pour un temps prolongé après l'atténuation. Elle est une véritable souche de \"top cropping\" et nécessite un espace vide dans le fermenteur de 33% afin d'éviter toutdébordement."
+    },
+    {
+        "name": "WYEAST 3278 BELG.LAMBIC",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/122-wyeast-3278-belglambic.html",
+        "abv_tol": "11%",
+        "floculation": " Variable",
+        "attenuation_range": [
+            "70%",
+            "80%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "17°C",
+            "24°C"
+        ],
+        "description": "Ce mélange contient une culture de levures et des bactéries importantes pour la production de bières de fermentation spontanée de la région de Lambic. Les proportions spécifiques d'une souche de bière de style belge, une souche de xérès, deux souches de Brettanomyces, une culture de Lactobacille et une culture de Pediococcus produisent les composants de saveur désirables de ces bières comme ils sont couvés à Bruxelles. On ne recommande pas de propagation de cette culture car cela entrainerait un déséquilibre des différents composants. Ce mélange produira une bière très sèche en raison de la nature super-attenuative des cultures mixtes."
+    },
+    {
+        "name": "WYEAST 3711 FRENCH SAISON",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/95-wyeast-3711-french-saison.html",
+        "abv_tol": "12%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "77%",
+            "83%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "25°C"
+        ],
+        "description": "Une souche très polyvalente qui produit des Saisons ou des bières de style de ferme aussi bien que d'autres bières de style belges fortement aromatiques (esters), poivrées, épicées et citronnées. Cette souche améliore l'utilisation d'épices et d'houblons aromatiques et est extrêmement attenuative, mais laisse une rondeur soyeuse et une richesse inattendue. Cette souche peut aussi être utilisée pour reprendre des fermentations coincées ou dans des hautes bières de gravité."
+    },
+    {
+        "name": "WYEAST 3724 BELGIAN SAISON ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/132-wyeast-3724-belgian-saison-ale.html",
+        "abv_tol": "12%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "76%",
+            "80%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "21°C",
+            "35°C"
+        ],
+        "description": "Cette souche est la levure de bière de ferme classique. Une levure traditionnelle qui est épicée avec des aromes complexes, y compris le bubble-gum. C'est très âpre et sec sur le palais et doucement fruité. Attendez-vous à une bière craquante, une fin doucement acide qui profitera de températures de fermentation élevées. Cette souche est tristement célèbre pour un début rapide et vigoureux à la fermentation seulement coller(rester fidèle) autour de 1.035 S.G. La fermentation finira, étant donné le temps et le réchauffement des températures. Des températures de fermentation chaudes, au moins 90°F (32°C), ou l'utilisation d'une souche secondaire peuvent accélérer l'atténuation."
+    },
+    {
+        "name": "WYEAST 3726 Farmhouse Ale",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/1066-wyeast-3726-farmhouse-ale.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "74%",
+            "79%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "21°C",
+            "29°C"
+        ],
+        "description": "Styles de bières : Saison, Biere de Garde, Belgian Blonde Ale, Belgian Pale Ale, Belgian Golden Strong Ale"
+    },
+    {
+        "name": "WYEAST 3763 ROESELARE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/134-wyeast-3763-roeselare.html",
+        "abv_tol": "11%",
+        "floculation": " Variable",
+        "attenuation_range": [
+            " 80%",
+            "70%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "18°C",
+            "30°C"
+        ],
+        "description": "Notre mélange de cultures de lambic produit de la bière avec un profil complexe, terreux et une aigreur de cerise et de tarte distinctive. Le vieillissement jusqu'à 18 mois est exigé pour un profil de saveur complet et une acidité pour se développer. Les proportions spécifiques d'une souche de bière de style belge, une souche de xérès, deux souches de Brettanomyces, une culture de Lactobacille et une culture de Pediococcus produisent les composants de saveur désirables de ces bières comme ils sont couvés dans la Flandre-Occidentale. On ne recommande pas de propagation de cette culture car cela aboutirait à un changement des proportions des composants individuels. Ce mélange produira une bière très sèche en raison de la nature super-attenuative des cultures mixtes(mélangées)."
+    },
+    {
+        "name": "WYEAST 3787 TRAP HIGH GRAV.",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/135-wyeast-3787-trap-high-grav.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "74%",
+            "78%"
+        ],
+        "price": "9.27€",
+        "temp_range": [
+            "18°C",
+            "25°C"
+        ],
+        "description": "Une souche classique pour brasser une dubbel ou une tripel belge. Cette souche d'Abbaye produit un équilibre agréable d'esters fruités complexes et de phenols, le faisant désirable pour une utilisation dans d'autres bières de style belges. Une souche flocculente \"top-cropping\" (espace supplémentaire recommandé dans le fermenteur), qui fonctionnera sur de larges variations de température. Cette souche fait une grande souche \"maison\" de style belge."
+    },
+    {
+        "name": "WYEAST 3944 BELGIAN WHITE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/118-wyeast-3944-belgian-white.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "72%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "16°C",
+            "24°C"
+        ],
+        "description": "Cette souche de levure witbier polyvalente peut être utilisée dans une variété de bières de style belges. Cette souche produit un profil de saveur complexe dominé par le épicé et le phenolic avec une production d'ester basse à modérée. C'est un très bon choix de levure quand vous voulez qu'un profil de clou de girofle délicat ne pas soit éclipsé par des esters. Il fermentera assez bas (profil sec) avec une finition légèrement âpre qui complimenteront l'utilisation d'avoine, de blé malté et non malté. Cette souche est une vrai \"top cropping\" exigeant un espace vide dans le fermenteur de 33 %."
+    },
+    {
+        "name": "WYEAST 4134 SAKE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/1072-wyeast-4134-sake.html",
+        "abv_tol": "14%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            " NA",
+            "70%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "24°C"
+        ],
+        "description": "Sake #9 used in conjunction with Koji for making wide variety of Asian Jius (rice based beverages). Full bodied profile, silky and smooth on palate with low ester production."
+    },
+    {
+        "name": "[COLLECTION PRIVEE] WYEAST 5151 Brettanomyces claussenii",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/1036--collection-privee-wyeast-5151-brettanomyces-claussenii.html",
+        "abv_tol": "12%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            " 80%+",
+            "70%"
+        ],
+        "price": "14€",
+        "temp_range": [
+            "18°C",
+            "27°C"
+        ],
+        "description": "Styles de bières : Old Ale, Historic Porters & Milds, Foreign Extra Stout, Wild & Sour Ales, Fruit Lambic, Flemish Red Ale, Belgian Specialty Ales"
+    },
+    {
+        "name": "[COLLECTION PRIVEE] WYEAST XL 9097 Old Ale Blend",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/1093--collection-privee-wyeast-xl-9097-old-ale-blend.html",
+        "abv_tol": "14%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "75%",
+            "80%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "20°C",
+            "24°C"
+        ],
+        "description": "Styles de bières : Strong Ale, Old Ale, English Barleywine, Historic English Ales, Wood Aged Beers"
+    },
+    {
+        "name": "Levure liquide WLP850 Copenhagen Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2141-levure-liquide-wlp850-copenhagen-lager-white-labs-purepitch-812075020889.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure de bière de basse fermentation d'Europe du Nord, nette et croustillante. Pas aussi maltée que les levures à fermentation basse d'Europe du Sud. Idéale pour les Pilsners et les Dark Lagers de style européen, les Vienna Lagers et les bières de basse fermentation de style américain."
+    },
+    {
+        "name": "WLP940 Mexican Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2132-wlp940-mexican-lager-white-labs-purepitch-812075020933.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "De Mexico, cette levure produit une bière de basse fermentation nette, avec une finition croustillante. Idéale pour les lagers légères de style mexicain, ainsi que les Dark Lagers."
+    },
+    {
+        "name": "German Bock Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2128-german-bock-lager-white-labs-purepitch-812075020858.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Issue des Alpes de la Bavière du Sud, cette levure produit une bière bien équilibrée entre les arômes de malt et de houblon. Son excellent profil de malt la rend idéale pour les Bocks, les Doppelbocks et les bières de style Oktoberfest. Levure de bière de basse fermentation très polyvalente, tellement équilibrée qu'elle est devenue très populaire dans la production de Pilsners de style Classic American. Convient aussi pour les lagers de style Münchner Helles."
+    },
+    {
+        "name": "WLP830 German Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2127-wlp830-german-lager-white-labs-purepitch-812075020841.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est l'une des levures de bière de basse fermentation les plus couramment utilisées au monde. Très maltée et nette, idéale pour toutes les lagers allemandes, les Pilsners, les Oktoberfest et les Märzen."
+    },
+    {
+        "name": "WLP800 Pilsner Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2123-wlp800-pilsner-lager-white-labs-purepitch-812075020803.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Souche Pilsner classique du premier producteur de Pilsners en République Tchèque. Un peu sèche, avec une finition maltée, cette levure convient idéalement à la production européenne de Pilsners."
+    },
+    {
+        "name": "WLP590 French Saison Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2102-wlp590-french-saison-ale-white-labs-purepitch-812075020957.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est réputée pour ses saveurs nettes, son équilibre et sa capacité à être utilisée dans presque chaque style de bière de haute fermentation. Elle accentue les saveurs de houblon et est extrêmement polyvalente."
+    },
+    {
+        "name": "WLP570 Belgian Golden Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2100-wlp570-belgian-golden-ale-white-labs-purepitch-812075020537.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "De Flandre-Orientale, cette levure polyvalente peut produire des Belgian Ales légères comme des bières belges à gravité élevée (12 % vol.). Les caractéristiques fruitées et phénoliques dominent. La légère production de soufre pendant la fermentation se dissipe après la fermentation."
+    },
+    {
+        "name": "WLP545 Belgian Strong Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2089-wlp545-belgian-strong-ale-white-labs-purepitch-812075020483.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Issue des Ardennes belges, cette souche de levure classique produit des niveaux modérés d'esters et un caractère phénolique épicé. Produit généralement une finition sèche mais équilibrée. Cette levure est idéale pour les Belgian Dark Strongs, les bières d'abbaye et les bières de Noël."
+    },
+    {
+        "name": "WLP530 Abbey Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2087-wlp530-abbey-ale-white-labs-purepitch-812075020469.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Utilisée pour produire les bières de style Trappiste. Similaire à la Monastery Ale Yeast, mais moins fruitée et plus tolérante à l'alcool (jusqu'à 15 %). Excellente levure pour les bières à gravité élevée, les Belgian Ales, les Dubbels et les Tripels."
+    },
+    {
+        "name": "WLP500 Monastery Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2085-wlp500-monastery-ale-white-labs-purepitch-812075020438.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Issue de l'une des dernières brasseries Trappistes au monde, cette levure produit les notes particulières des fruits et de la prune. Excellente levure pour les bières à gravité élevée, les Belgian Ales, les Dubbels et les Tripels. Des températures plus faibles (18 à 19 °C) donneront une bière moins fruitée et plus terreuse."
+    },
+    {
+        "name": "WLP400 Belgian Wit Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2083-wlp400-belgian-wit-ale-white-labs-purepitch-812075020414.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Légèrement phénolique et acide, c'est la levure originale utilisée pour produire la Wit en Belgique."
+    },
+    {
+        "name": "WLP380 Hefeweizen Ale IV - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2082-wlp380-hefeweizen-ale-iv-white-labs-purepitch-812075020407.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Arôme et saveur prononcés de clou de girofle et de phénols avec un goût de banane moindre. Notes rafraîchissantes d'agrumes et d'abricot. Hefeweizen pétillante. Flocule moins que la Hefeweizen Ale Yeast, mais sa production de soufre est plus élevée."
+    },
+    {
+        "name": "WLP351 Bavarian Weizen Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2081-wlp351-bavarian-weizen-ale-white-labs-purepitch-812075020391.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.93€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ancienne souche Yeast Lab W51, acquise par Dan McConnell, elle produit une bière de blé classique de style allemand, avec des notes épicées et phénoliques qui rappellent le clou de girofle."
+    },
+    {
+        "name": "WLP095 Burlington Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2078-wlp095-burlington-ale-white-labs-purepitch-812075020964.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure a déjà prouvé ses mérites dans des IPA's. C'est une levure superbe pour les gens qui aiment la levure California Ale, car cette levure ajoute un peu de personnalité et de corps à votre bière. Des esters supérieurs comparé avec la California Ale. Burlington Ale produit davantage de diacétyle, nous recommandons donc d'augmenter la température à la fin de la fermentation."
+    },
+    {
+        "name": "WLP099 Super High Gravity Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2076-wlp099-super-high-gravity-ale-white-labs-purepitch-812075020360.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Peut fermenter avec 25 % d'alcool. Provient de l'Angleterre. Produit des notes d'esters qui augmentent avec la gravité. Le caractère de malt domine à des gravités inférieures."
+    },
+    {
+        "name": "WLP090 San Diego Super - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2075-wlp090-san-diego-super-white-labs-purepitch-812075020353.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une souche très pure, à fermentation très rapide. Une souche qui produit peu d'esters, donnant une saveur et un profil aromatique équilibrés et neutres. Bonne tolérance à l'alcool et grande polyvalence, convient à de nombreux styles de bières. Similaire à la California Ale Yeast bien que présentant une fermentation généralement plus rapide."
+    },
+    {
+        "name": "WLP029 German Ale/Kolsch - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2063-wlp029-german-ale-kolsch-white-labs-purepitch-812075020209.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Produite dans une petite brasserie artisanale à Cologne, en Allemagne, cette levure est idéale pour les bières de style Kölsch et Alt. Convient aux bières légères de style Blonde et Honey. Accentue les saveurs houblonnées, comme la California Ale Yeast. La légère production de soufre pendant la fermentation disparaît avec le temps et laisse une ale très pure, comme la lager. Fermente mal sous 17 °C, sauf pendant la fermentation active."
+    },
+    {
+        "name": "WLP013 London Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2060-wlp013-london-ale-white-labs-purepitch-812075020155.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure de bière de haute fermentation sèche et maltée. Donne à votre bière une saveur de chêne et un caractère complexe. L'amertume houblonnée passe bien. Cette levure est idéale pour les British Pale Ales classiques, les Bitters et les Stouts. Ne flocule pas aussi bien que l'English Ale Yeast et la British Ale Yeast."
+    },
+    {
+        "name": "WLP007 Dry English Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2057-wlp007-dry-english-ale-white-labs-purepitch-812075020117.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure nette, au taux de floculation élevé et au grand pouvoir d'atténuation. Cette levure est similaire à l'English Ale Yeast en termes de saveur, mais son pouvoir d'atténuation est 10 % plus élevé, ce qui élimine le goût sucré résiduel et en fait une levure bien adaptée aux bières de haute fermentation de gravité élevée. En outre, elle atteint rapidement sa gravité finale. L'atténuation de 80 % sera atteinte, même avec des bières contenant 10 % d'alcool."
+    },
+    {
+        "name": "WLP005 British Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2056-wlp005-british-ale-white-labs-purepitch-812075020094.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure présente un pouvoir d'atténuation un peu plus élevé que l'English Ale Yeast. Comme la plupart des souches anglaises, cette levure produit des bières maltées. Excellente pour toutes les bières de haute fermentation de style anglais, notamment les Bitters, Pale Ales, Porters et Brown Ales."
+    },
+    {
+        "name": "WLP004 Irish Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2055-wlp004-irish-ale-white-labs-purepitch-812075020087.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est issue de l'une des plus anciennes brasseries de Stout au monde. Elle produit une légère odeur de diacétyle, équilibrée par des arômes de fruits légers et un caractère pétillant légèrement sec. Idéale pour les Irish Ales, Stouts, Porters, Browns, Reds et certaines Pale Ales."
+    },
+    {
+        "name": "WLP002 English Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2054-wlp002-english-ale-white-labs-purepitch-812075020070.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une souche Extra Special Bitter classique, issue de l'une des plus importantes brasseries indépendantes d'Angleterre. Cette levure est idéale pour les bières de haute fermentation de style anglais, notamment les Milds, les Bitters, les Porters et les Stouts. Cette levure rend la bière très claire et laisse une certaine douceur résiduelle."
+    },
+    {
+        "name": "WLP001 California Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2053-wlp001-california-ale-white-labs-purepitch-812075020063.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est réputée pour ses saveurs nettes, son équilibre et sa capacité à être utilisée dans presque chaque style de bière de haute fermentation. Elle accentue les saveurs de houblon et est extrêmement polyvalente. Souche universelle idéale. Convient à la vodka, au gin, au bourbon et aux alcools neutres."
+    },
+    {
+        "name": "WLN4000 Clarity Ferm",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2596-1348-wln4000-clarity-ferm.html#/162-volume-10ml",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "4.44€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Clarity Ferm est une enzyme facile à utiliser qui élimine le trouble de la bière et sert d'alternative pour clarifier et stabiliser l'apparence de la bière. Les avantages supplémentaires incluent également des économies de coûts pour les brasseries, des rendements améliorés et une innovation éprouvée pour réduire le gluten."
+    },
+    {
+        "name": "WLP661 Pediococcus damnosus HB - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2615-wlp661-pediococcus-damnosus-hb-white-labs-purepitch.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Il s'agit d'une bactérie cocci connue pour ses capacités d'acidification par la production d'acide lactique. Parfaite à ajouter à tout programme d'acidification, elle produit beaucoup de diacétyle et se développe lentement."
+    },
+    {
+        "name": "Hazy Daze",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2550-hazy-daze.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Hazy Daze contient un mélange exclusif de trois souches de Saccharomyces cerevisiae, qui offrent toutes des contributions uniques à la production de bières houblonnées. Attendez-vous à ce que ce mélange jette de généreuses quantités d'esters d'agrumes de pêche, d'abricot, de nectarine et de pamplemousse, présente une floculation moyenne à faible et atteigne de façon fiable une bonne atténuation pour produire des bières au caractère sec et crisp."
+    },
+    {
+        "name": "Transatlantic Berliner Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2593-transatlantic-berliner-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Transatlantique Berliner Blend est un mélange de propre bière souche (Allemagne), une bonne dose de notre Lactobacillus plantarum (états-unis) et Lactobacillus brevis - Souche TYB282 (Mexique) des isolats, et une touche de notre Beersel Brettanomyces Mélange (Belgique) et de Brettanomyces bruxellensis Seule Souche Isoler TYB184 (états-unis). Cette culture se ferment pour un croustillant de la sécheresse au fil du temps et de produire de la marque Berliner Weisse acide lactique épine dorsale, avec une touche de Brettanomyces tarte aux agrumes caractère et le funk."
+    },
+    {
+        "name": "Funktown Pale Ale",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2577-funktown-pale-ale.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Funktown Pale Ale est un mélange des souches Vermont Ale et une souche unique et sauvage de "
+    },
+    {
+        "name": "Saison/Brettanomyces Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2575-saison-brettanomyces-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange contient une souche "
+    },
+    {
+        "name": "Lochristi Brettanomyces Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2571-lochristi-brettanomyces-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange contient une souche isolée de "
+    },
+    {
+        "name": "Beersel Brettanomyces Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2569-beersel-brettanomyces-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange contientune souche isolée "
+    },
+    {
+        "name": "Vermont Ale [DLM 26/11/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2565-vermont-ale-dlm-26-11-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Isolée à partir d'une double IPA d'une brasserie artisanale du Nord est des Etats unis, cette levure produit un profile équilibré d'ester fruité de pêches et légèrement agrumes qui balancent n'importe quelle bière fortement houblonnée. Cette souche démarre généralement vite et métabolise rapidement la majeure partie des sucres fermentescibles dans le moût."
+    },
+    {
+        "name": "Hessian Pils",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2562-hessian-pils.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Hesse Pils est un seule souche de "
+    },
+    {
+        "name": "Sigmund's Voss Kveik [DLM 29/11/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2560-sigmund-s-voss-kveik-dlm-29-11-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "La levure Sigmund's Voss Kveik est une seule souche de "
+    },
+    {
+        "name": "Northeastern Abbey",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2559-northeastern-abbey.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure a été isolé à partir d'une bière conçue par un brasseur bien connu de Belgian-style ales dans le Nord-est des États-unis. Cette levure produit des aromes très doux, épicé et terreux complétée par une subtile, mais magnifique tableau d'esters fruités, comprenant de la poire et légèrement d'agrumes."
+    },
+    {
+        "name": "Saison Blend II",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2556-saison-blend-ii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce blend de saison est la portion de Saccharomyces de notre Farmhouse Sour Ale, disponible pour vous à la suite de demandes répétées. Cette combinaison de souches de Saccharomyces incarne la fusion équilibrée des deux principaux caractères de saveur / arôme de saison, de fruité et de terroir."
+    },
+    {
+        "name": "Saison Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2555-saison-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Un mélange de deux souches de levures uniques isolées de bières qui incarnent le style de saison, ce mélange est un équilibre des nombreuses saveurs et arômes caractéristiques des saisons. L'une des souche de levure est une bonne atténuante qui produit une bière épicée et légèrement acidulée avec une bouche pleine. L'autre souche de levure est également une bonne atténuante qui produit un profil d'ester délicieux de pamplemousse et de zeste d'orange et confère une longueur, sèche et terreuse à la bière. Ensemble, ils produisent une bière sèche mais équilibrée avec un profil unique de saveur et d'arôme."
+    },
+    {
+        "name": "Wallonian Farmhouse II",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2553-wallonian-farmhouse-ii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Il s'agit d'une souche unique de Saccharomyces cerevisiae isolée à la même source que notre souche Wallonian Farmhouse, une brasserie bien connue originaire de la région wallonne de Belgique. Légèrement moins atténuante et présentant un profil d'ester phénolique et expressif plus restreint que notre Wallonian Farmhouse d'origine, cette levure est un excellent choix pour toutes les bières de style classique de saison dans lesquelles un équilibre de fruité et de caractère de ferme rustique est désiré."
+    },
+    {
+        "name": "Wallonian Farmhouse [DLM 04/12/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2552-wallonian-farmhouse-dlm-04-12-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Isolé à partir d'un unique corps de ferme de style ale originaire de la région Wallonne de la Belgique, cette levure est l'un des funky \"propre\" de la levure que nous avons dans notre écurie. Il donne une légère terreux et tarte au caractère de la bière, et est très doux producteur de certains légèrement épicées et légèrement fumées composés de la saveur."
+    },
+    {
+        "name": "Hazy Daze II",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/3465-hazy-daze-ii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Hazy Daze II est un mélange exclusif de quatre souches de Saccharomyces cerevisiae, et présente un profil d'esters intense mais équilibré de fruits à noyau (pêche, abricot, nectarine et), de fruits tropicaux (mangue, goyave) et d'esters d'agrumes de pamplemousse. Elle fermentera également plus rapidement et finira à une gravité terminale légèrement inférieure à celle de notre Hazy Daze originale."
+    },
+    {
+        "name": "Simonaitis Lithuanian Farmhouse [DLM 09/12/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/3501-simonaitis-lithuanian-farmhouse-dlm-09-12-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette culture est une souche unique de Sacchromyces cerevisiae, isolée d'une culture mixte de ferme lituanienne (qui contenait à l'origine de multiples souches de Saccharomyces cerevisiae et de Lactobacillus sp.) aimablement fournie par Julius Simonaitis via Lars Garshol (cliquez ici pour le blog de Lars)."
+    },
+    {
+        "name": "WLP644 Saccharomyces \"bruxellensis\" Trois",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3538-wlp644-saccharomyces-bruxellensis-trois.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette souche belge, traditionnellement utilisée pour les fermentations de levure sauvage, produit une bière légèrement acidulée aux caractéristiques délicates de mangue et d'ananas. Cette levure sauvage a gagné en popularité pour des styles comme l'American IPA, les American pale et les blondes, en raison de ses saveurs et arômes de fruits tropicaux et de fruits à noyau. Cette souche Saccharomyces peut être utilisée comme les autres souches maison et peut être facilement nettoyée avec les procédures de NEP appropriées."
+    },
+    {
+        "name": "WLP670 American Farmhouse Blend",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3543-wlp670-american-farmhouse-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Inspiré par les brasseurs américains locaux qui fabriquent des ales de style belge semi-traditionnelles, ce mélange crée un profil de saveur complexe avec un niveau modéré d'acidité. Il se compose d'une souche de levure de ferme traditionnelle et de Brettanomyces. Une levure idéale pour les ales de ferme, les saisons et autres bières d'inspiration belge."
+    },
+    {
+        "name": "HORNINDAL KVEIK [DLM 24/11/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4005-hornindal-kveik-dlm-24-11-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Error reading description"
+    },
+    {
+        "name": "FRAMGARDEN KVEIK [DLM 24/11/2021]",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4006-framgarden-kveik-dlm-24-11-2021-.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "6.45€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Error reading description"
+    },
+    {
+        "name": "MIDTBUST KVEIK",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4008-midtbust-kveik.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Error reading description"
+    },
+    {
+        "name": "[COLLECTION PRIVEE] WYEAST 1087 BOHEMIAN ALE BLEND",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/4020--collection-privee-wyeast-1087-bohemian-ale-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Anciennement connu sous le nom de Wyeast Ale Blend 1540-PC, il s’agit d’un mélange des meilleures variétés de bière pour fournir des démarrages rapides, une bonne saveur et une bonne floculation. Le profil de ces variétés offre un résultat équilibré pour les bières de style britannique et américain."
+    },
+    {
+        "name": "WYEAST 1007 GERMAN ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/77-wyeast-1007-german-ale.html",
+        "abv_tol": "11%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "13°C",
+            "20°C"
+        ],
+        "description": "Une véritable levure \"top cropping\" avec un faible formation d'ester et une plage de température large. La fermentation aux températures plus hautes peut produire un fruité doux. Cette souche pulvérulente laisse la levure en suspension après la fermentation. Les bières mûrissent rapidement, même en fermentation basse. Faible ou aucune formation de diacetyl détectable."
+    },
+    {
+        "name": "WYEAST 1010 AMERICAN WHEAT",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/110-wyeast-1010-american-wheat.html",
+        "abv_tol": "10%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "74%",
+            "78%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "14°C",
+            "23°C"
+        ],
+        "description": "Une levure à fermentation forte, véritable \"top cropping\" produit une finale sèche, légèrement âpre et une bière \"craquante\". C'est une souche Idéale pour des bières où le profil d'ester faible est désiré."
+    },
+    {
+        "name": "WYEAST 1028 LONDON ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/78-wyeast-1028-london-ale.html",
+        "abv_tol": "11%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "22°C"
+        ],
+        "description": "Riche structure, goût pur et frais, costaud et solide. Produit un peu de diacetyl."
+    },
+    {
+        "name": "WYEAST 1084 IRISH ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/80-wyeast-1084-irish-ale.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "71%",
+            "75%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "16°C",
+            "22°C"
+        ],
+        "description": "Cette levure polyvalente fermente extrêmement bien dans des moûts fonçés. C'est un bon choix pour les bières à haute densité. Les bières fermentées dans des gammes de température basses produisent un profil sec, croustillant, avecun fruité subtil. Les esters fruités et complexes augmenteront avec une température de fermentation au dessus de 18°C."
+    },
+    {
+        "name": "WYEAST 1098 BRITISH ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/81-wyeast-1098-british-ale.html",
+        "abv_tol": "10%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "73%",
+            "75%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "22°C"
+        ],
+        "description": "Cette levure permet aux malts et houblons de dominer le profil. Elle fermente une bière sèche et craquante, produisant des bières bien équilibrées avec une finition propre et neutre. Fermente très bien jusqu'à 18°C."
+    },
+    {
+        "name": "WYEAST 1099 WHITBREAD ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/82-wyeast-1099-whitbread-ale.html",
+        "abv_tol": "10%",
+        "floculation": " Moyenne à Haute",
+        "attenuation_range": [
+            "68%",
+            "72%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "Un profil doucement malté et légèrement fruité. C'est moins âpre et sec que la Wyeast 1098 British Ale. Avec de bonnes caractéristiques de floculation, cette levure s'éclaircit bien sans filtration. Des températures de fermentation basses produiront une finition propre avec un profil d'ester très bas."
+    },
+    {
+        "name": "WYEAST 1187 RINGWOOD ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/83-wyeast-1187-ringwood-ale.html",
+        "abv_tol": "10%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "68%",
+            "72%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "23°C"
+        ],
+        "description": "Une souche de levure \"top cropping\" avec des caractéristiques de saveur et de fermentation uniques. Attendez-vous à des esters de fruit distincts et un profil malté complexe. La floculation est haute et la bière s'éclaircira bien sans filtration. On recommande un \"diacetyl rest\" minutieux après la fin de la fermentation. Cette souche peut être une lente au démarrage et durant la fermentation."
+    },
+    {
+        "name": "WYEAST 1275 THAMES VALLEY",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/85-wyeast-1275-thames-valley.html",
+        "abv_tol": "10%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "72%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "16°C",
+            "22°C"
+        ],
+        "description": "Cette souche produit des bitters britannique classiques avec un profil de saveur riche, complexe. La levure a un caractère malté léger, peu fruité, avec une production d'esters faible et est propre et bien équilibré."
+    },
+    {
+        "name": "WYEAST 1318 LONDON ALE III",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/86-wyeast-1318-london-ale-iii.html",
+        "abv_tol": "10%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "71%",
+            "75%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "23°C"
+        ],
+        "description": "En étant originaire d'une brasserie traditionnelle de Londres, cette levure a un merveilleux profil malté et houblonné. C'est une souche \"top cropping\" avec un palais fruité, très léger et doucement équilibré. Cette souche finira légèrement sur le doux/sucré."
+    },
+    {
+        "name": "WYEAST 1332 NORTHWEST ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/991-wyeast-1332-northwest-ale.html",
+        "abv_tol": "10%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "67%",
+            "71%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "Une souche de fermentation haute classique des brasseries du Nord-ouest américain. Elle produit une bière maltée et doucement fruitée avec une bonne profondeur et de la complexité."
+    },
+    {
+        "name": "WYEAST 1335 BRITISH ALE II",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/87-wyeast-1335-british-ale-ii.html",
+        "abv_tol": "10%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "73%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "17°C",
+            "24°C"
+        ],
+        "description": "Un profil de bière britannique classique avec une bonne floculation et des caractéristiques de saveur maltées. Elle finira une bière craquante, clean et assez sèche."
+    },
+    {
+        "name": "WYEAST 1469 WEST YORKSHIRE ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/88-wyeast-1469-west-yorkshire-ale.html",
+        "abv_tol": "9%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "67%",
+            "71%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "22°C"
+        ],
+        "description": "Cette souche produit des bières avec une saveur de malt pleine et un caractère malté, mais avec une finale sèche, produisant des bières fameusement équilibrées. Attendez-vous à des saveurs modérées de noisette et des esters de fruit à noyau. Utilisé de préférence pour la production de bitters conditionnées en cask, pour des ESB et des ales douces. Elle flocule de façon fiable, produisant des bière brillante sans filtration."
+    },
+    {
+        "name": "WYEAST 1728 SCOTTISH ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/89-wyeast-1728-scottish-ale.html",
+        "abv_tol": "12%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "69%",
+            "73%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "13°C",
+            "24°C"
+        ],
+        "description": "Notre souche de bière écossaise est idéalement adaptée pour les fortes ales maltées de l'Écosse. Cette souche est très polyvalente et est souvent utilisée comme une souche \"Maison\" car elle fermente des bières neutre et \"propre\". Des températures de fermentation plus hautes aboutiront à un profil d'ester accru."
+    },
+    {
+        "name": "WYEAST 1762 BELG.ABBEY-2",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/126-wyeast-1762-belgabbey-2.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "Une levure excellente pour l'utilisation dans des bières fortes sombres belges. Cette souche a relativement un \"profil propre\" qui permet à un caractère malté et d'éthanol de briller. Des esters de fruits secs délicats peuvent être produits quand utilisé aux températures de fermentation plus hautes ou dans un moût de haute densité."
+    },
+    {
+        "name": "WYEAST 1968 LONDON ESB ALE",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/90-wyeast-1968-london-esb-ale.html",
+        "abv_tol": "9%",
+        "floculation": " Très haute",
+        "attenuation_range": [
+            "67%",
+            "71%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "22°C"
+        ],
+        "description": "Une très bonne souche pour les bières conditionnées en cask, cette levure extrêmement flocculante produits distinctement des bières maltées. Les niveaux d'atténuation sont typiquement inférieurs que la plupart des autres souches de levure qui aboutissent à une finition légèrement plus douce. Les bières produites avec cette souche ont tendance à être fruitées, d'autant plus que la température de fermentation est haute (21-23°C). On recommande un diacetyl rest minutieux lorsque la fermentation est complète. Des bières brillantes sont facilement réalisées en quelques jours sans aucune filtration."
+    },
+    {
+        "name": "[COLLECTION PRIVEE] WYEAST 2000 BUDVAR LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/100--collection-privee-wyeast-2000-budvar-lager.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne à Haute",
+        "attenuation_range": [
+            "71%",
+            "75%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            " 9-13°C",
+            "18°"
+        ],
+        "description": "La souche Budvar a un nez malté agréable avec des tons de fruit subtils et un profil de malt riche sur le palais. Un final malté, mais sec, bien équilibré et craquant. Le caractère houblonné se ressent à la fin."
+    },
+    {
+        "name": "WYEAST 2007 PILSEN.LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/102-wyeast-2007-pilsenlager.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "71%",
+            "75%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            " 9-13°C",
+            "18°"
+        ],
+        "description": "Wyeast 2007 est la souche de lager américaine classique. Cette souche douce, neutre produit des bières avec un caractère malté agréable et un palais lisse. Il fermente une bière sèche et craquante avec une production de soufre et diacetyl minimal. Les bières de cette souche exposent les caractéristiques de la lager la plus populaire en Amérique."
+    },
+    {
+        "name": "WYEAST 2112 CALIF.LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/104-wyeast-2112-califlager.html",
+        "abv_tol": "9%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "67%",
+            "71%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "14°C",
+            "20°C"
+        ],
+        "description": "Cette souche est particulièrement bien convenue pour produire des bières du Style commun de Californie. Elle conserve des caractéristiques de lager aux températures jusqu'à 65°F (18°C) et produit des bières maltées et brillantes. On ne recommande pas cette souche pour la fermentation froide."
+    },
+    {
+        "name": "WYEAST 2206 BAVAR.LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/106-wyeast-2206-bavarlager.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne à Haute",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            " 8-14°C",
+            "18°"
+        ],
+        "description": "Utilisée par beaucoup de brasseries allemandes pour produire des bières riches, pleine de corps, maltées, cette souche est un bon choix pour des bock et doppelbocks. On recommande un repos de diacetyl minutieux lorsque la fermentation est complète."
+    },
+    {
+        "name": "WYEAST 2278 CZECH PILS",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/107-wyeast-2278-czech-pils.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne à Haute",
+        "attenuation_range": [
+            "70%",
+            "74%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "10°C",
+            "14°C"
+        ],
+        "description": "Originaire de la maison des grandes Pilsners en République tchèque, cette souche classique finira une bière sèche et maltée. C'est un choix parfait pour le Style Bohemian-Pilsners. Le soufre produit pendant la fermentation peut être réduit avec des températures de fermentation plus chaudes 58°F (14°C) et se dissipera avec le conditionnement."
+    },
+    {
+        "name": "WYEAST 2308 MUNICH LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/108-wyeast-2308-munich-lager.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "70%",
+            "74%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            " 9-13°C",
+            "18°"
+        ],
+        "description": "C'est une souche unique, capable de produire de bonnes lagers. Elle est très lisse, harmonieuse et pleine de corps. On recommande un repos de diacetyl minutieux lorsque la fermentation est complète."
+    },
+    {
+        "name": "WYEAST 2565 KOLSCH",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/91-wyeast-2565-kolsch.html",
+        "abv_tol": "10%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "13°C",
+            "21°C"
+        ],
+        "description": "Cette souche est un classique, véritable souche de levure \"top cropping\" d'une brasserie traditionnelle à Cologne en Allemagne. Les bières exposeront un peu de caractère fruité d'une ale, avec un profil propre similaire aux lagers. Il produit peu ou aucun niveau détectable de diacetyl. Cette levure peut aussi être utilisée pour produire des bières pseudo-lager rapide conditionnant et fermenter rapidement dans la gamme de température 13-16°C. Cette souche \"poudreuse\" laisse des levures en suspension. Elle requiert une filtration ou un temps de sédimentation pour produire des bières limpides."
+    },
+    {
+        "name": "WYEAST 3056 BAVARIAN WHEAT BLEND",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/111-wyeast-3056-bavarian-wheat-blend.html",
+        "abv_tol": "10%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "23°C"
+        ],
+        "description": "Ce mélange propriétaire d'une souche de bière neutre de fermentation haute et une souche de blanche Bavaroise est un bon choix quand on désire une bière de blé de style allemande subtile. Les esters complexes et phenolics de la souche de blanche sont joliment adoucis et équilibrés par la souche de bière neutre."
+    },
+    {
+        "name": "WYEAST 3522 BELGIAN ARDENNES",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/129-wyeast-3522-belgian-ardennes-4000000000136.html",
+        "abv_tol": "12%",
+        "floculation": " Haute",
+        "attenuation_range": [
+            "72%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "Une des grandes et polyvalente souche pour la production de bières de style belges classiques. Cette souche produit un bel équilibre d'esters de fruit délicats et des notes épicées subtiles, sans que l'un domine l'autre. Contrairement à beaucoup d'autres souches de style belges, celle-ci est fortement flocculente et aboutit à des bières brillantes."
+    },
+    {
+        "name": "WYEAST 3638 BAVARIAN WHEAT",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/116-wyeast-3638-bavarian-wheat.html",
+        "abv_tol": "10%",
+        "floculation": " Basse",
+        "attenuation_range": [
+            "70%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "18°C",
+            "24°C"
+        ],
+        "description": "Une alternative complexe à la souche bière de blé standard allemande. Cette souche produit de la pomme, de la poire et des esters de prune en plus du caractère de banane dominant. Les esters sont complétés joliment par le clou de girofle et de subtils phenols de vanille. L'équilibre peut être manipulé vers la production d'ester par la température de fermentation croissante, ou en augmentant la densité de moût et diminuant le taux d'ensemencement. Augmenter le taux d'ensemencement peut aboutir à une perte presque complète du caractère de banane. La diminution du niveau d'ester permettra à un caractère de clou de girofle d'être perçue de façon plus importante. Du soufre est généralement produit, mais se dissipera avec le conditionnement. Cette souche est très pulvérulente et restera en suspension pour un temps prolongé après l'atténuation. Ceci est une véritable levure \"top-cropping\" et exige espace vide dans le fermenteur de 33 %."
+    },
+    {
+        "name": "WYEAST 5112 BRETT.BRUXEL.",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/119-wyeast-5112-brettbruxel.html",
+        "abv_tol": "12%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "très élevée",
+            "70%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "15°C",
+            "24°C"
+        ],
+        "description": "Cette souche de levure sauvage a été isolée de cultures de brasserie dans la région de Bruxelles en Belgique. Il produit le caractère classique de \"la couverture de cheval en sueur\" caractéristique des bières indigènes comme les gueuzes, les lambics et les brunes sures et peut former une pellicle dans les bouteilles ou les tonneaux. La souche est généralement utilisée en complément d'une souche S. cerevisiae, aussi bien que d'autre levure sauvage et des bactéries lactées. Vieillissement d'Au moins 3-6 mois est généralement exigé pour que la saveur puisse entièrement se développer."
+    },
+    {
+        "name": "WYEAST 5335 Lactobacillus",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/120-wyeast-5335-lactobacillus.html",
+        "abv_tol": " 9 %",
+        "floculation": " ",
+        "attenuation_range": [
+            " ",
+            "70%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "15°C",
+            "35°C"
+        ],
+        "description": "Bactéries d'acide lactique isolées d'une brasserie belge. Cette culture produit des niveaux modérés d'acidité et est généralement trouvée dans beaucoup de types de bières incluant gueuze, lambics, bières brunes aigres et les Berliner Weisse. Il est toujours utilisé en accord avec S.cerevisiae et souvent avec des levures sauvages diverses. On recommande son utilisation dans le moût ou la bière en dessous de 10 IBU en raison de la sensibilité de la souche avec le houblon."
+    },
+    {
+        "name": "WYEAST 5733 Pediococcus",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/121-wyeast-5733-pediococcus.html",
+        "abv_tol": " n/a",
+        "floculation": " ",
+        "attenuation_range": [
+            " ",
+            "70%"
+        ],
+        "price": "17.5€",
+        "temp_range": [
+            "15°C",
+            "35°C"
+        ],
+        "description": "Des bactéries d'acide lactique utilisées dans la production de bières de style belges où une acidité supplémentaire est désirée. Souvent trouvé dans les gueuze et d'autre bière de style belge. La production acide augmentera avec le temps de stockage. Il peut aussi causer \"le fait d'être visqueux\" et produire de bas niveaux de diacetyl avec un temps de stockage prolongé."
+    },
+    {
+        "name": "WYEAST 2124 BOHEMIAN LAGER",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/105-wyeast-2124-bohemian-lager.html",
+        "abv_tol": "9%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            " 8-22°C",
+            "18°"
+        ],
+        "description": "Cette levure de type Carlsberg est la souche de lager la plus largement utilisée dans le monde. Cette souche produit un profil malté distinct avec un peu de caractère d'ester et une fin craquante. Une souche polyvalente, qui est bien pour utiliser avec des lagers ou Pilsners pour des fermentations dans la gamme (8-12°C) 45-55°F. Elle peut aussi être utilisée pour la production de bière Commune avec des fermentations à 65-68°F (18-20°C). On recommande un repos de diacetyl minutieux lorsque la fermentation est complète."
+    },
+    {
+        "name": "Levure liquide WLP885 Zurich Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2148-levure-liquide-wlp885-zurich-lager-white-labs-purepitch-812075020919.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure de bière de basse fermentation de style Suisse. En y consacrant l'attention appropriée, cette levure peut être utilisée pour produire de la bière lager à plus de 11 % vol. Production minime de soufre et de diacétyle. Culture originale fournie à White Labs par Marc Sedam."
+    },
+    {
+        "name": "WLP862 Cry Havoc Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2131-wlp862-cry-havoc-lager-white-labs-purepitch-812075020902.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Créée par Charlie Papazian, cette souche peut fermenter aux températures prévues pour les bières de haute et basse fermentation, permettant au brasseur de produire divers styles de bières. Les recettes mentionnées dans les deux livres de Papazian, The Complete Joy of Homebrewing et The Homebrewer's Companion, ont été mises au point et testées avec cette souche."
+    },
+    {
+        "name": "WLP840 American Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2130-wlp840-american-lager-white-labs-purepitch-812075020872.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est utilisée pour produire les bières de basse fermentation de style américain. Sèche et nette, avec de légers arômes de pomme. Production minime de soufre et de diacétyle."
+    },
+    {
+        "name": "WLP838 Southern German Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2129-wlp838-southern-german-lager-white-labs-purepitch-812075020865.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est caractérisée par une finition maltée et un arôme équilibré. Fermente bien, produit peu de soufre et peu de diacétyle."
+    },
+    {
+        "name": "WLP820 Oktoberfest Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2126-wlp820-oktoberfest-lager-white-labs-purepitch-812075020834.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure produit une bière très maltée, semblable à la Bock. Sa finition n'est pas aussi sèche que la German Lager Yeast. Cette levure fermente beaucoup plus lentement que la German Lager Yeast, c'est pourquoi nous recommandons d'utiliser un plus grand pied de cuve ou de prévoir un temps de fermentation plus long."
+    },
+    {
+        "name": "WLP810 San Francisco Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2125-wlp810-san-francisco-lager-white-labs-purepitch-812075020827.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure est utilisée pour produire les bières 'Californian Lager'. Une souche pour fermentation basse unique qui présente la capacité de fermenter jusqu'à 18 °C, tout en conservant les caractéristiques de la lager. Peut aussi fermenter à 10 °C pour la production de Märzens, de Pilsners et d'autres bières de basse fermentation."
+    },
+    {
+        "name": "WLP802 Czech Budejovice Lager - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2124-wlp802-czech-budejovice-lager-white-labs-purepitch-812075020810.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure de bière de basse fermentation Pilsner du Sud de la République Tchèque. Produit des lagers sèches et croustillantes, avec une production de diacétyle réduite."
+    },
+    {
+        "name": "WLP575 Belgian Ale Blend - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2101-wlp575-belgian-ale-blend-white-labs-purepitch-812075020544.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Un mélange de deux levures de type Trappiste et d'une levure de type Belgian Ale. Association polyvalente qui peut être utilisée pour la bière de type Trappiste ou de nombreuses bières décrites comme étant de type belge."
+    },
+    {
+        "name": "WLP568 Saison Ale Blend - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2093-wlp568-saison-ale-blend-white-labs-purepitch-812075020520.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "C'est un mélange de souches Saison et Belgian Ale. Ces souches se combinent pour créer des arômes et des saveurs complexes et fruités de style belge. Le mélange de souches favorise la fermentation complète dans un délai convenable. Crée aussi des saveurs phénoliques, épicées, terreuses et de clou de girofle."
+    },
+    {
+        "name": "WLP566 Belgian Saison II Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2092-wlp566-belgian-saison-ii-ale-white-labs-purepitch-812075020513.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Souche Saison avec une plus grande production d'esters de fruits que la Belgian Saison Ale Yeast. Modérément phénolique, avec une pointe de clou de girofle dans la saveur et l'arôme de la bière finie. Fermente plus vite que la Belgian Saison Ale Yeast."
+    },
+    {
+        "name": "WLP565 Belgian Saison Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2091-wlp565-belgian-saison-ale-white-labs-purepitch-812075020506.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure Saison classique de Wallonie. Elle produit des notes terreuses, poivrées et épicées. Légèrement sucrée. Avec les bières Saisons à haute gravité, les brasseurs souhaitent parfois rendre la bière plus sèche avec une levure alternative ajoutée après 75 % de fermentation."
+    },
+    {
+        "name": "WLP550 Belgian Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2090-wlp550-belgian-ale-white-labs-purepitch-812075020490.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette souche convient aux bières belges classiques telles que les Saisons, Belgian Ales, Belgian Reds, Belgian Browns et bières blanches. Les saveurs phénoliques et épicées dominent tandis que les notes fruitées sont moins présentes qu'avec la Monastery Ale Yeast."
+    },
+    {
+        "name": "WLP540 Abbey IV Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2088-wlp540-abbey-iv-ale-white-labs-purepitch-812075020476.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une levure de style Trappiste authentique. Utilisée pour les bières de style Belgian Ale, les Dubbels, les Tripels et les bières spéciales. Caractère fruité modéré, entre la Monastery Ale Yeast (élevé) et l'Abbey Ale Yeast (faible)."
+    },
+    {
+        "name": "WLP510 Bastogne Belgian Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2086-wlp510-bastogne-belgian-ale-white-labs-purepitch-812075020445.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une levure de bière de haute fermentation de style trappiste, à gravité élevée. Produit une bière sèche avec une finition légèrement acide. Fermentation plus nette que la Monastery Ale Yeast ou l'Abbey Ale Yeast. Moins épicée que l'Abbey Ale Yeast ou la Belgian Ale Yeast. Excellente levure pour les bières à gravité élevée, les Belgian Ales, les Dubbels et les Tripels."
+    },
+    {
+        "name": "WLP410 Belgian Wit II Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2084-wlp410-belgian-wit-ii-ale-white-labs-purepitch-812075020421.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Moins phénolique que la Belgian Wit Ale Yeast. Laissera un peu plus de douceur, et le taux de floculation est plus élevé qu'avec la Belgian Wit Ale Yeast. Utilisée pour produire la Belgian Wit, les Spiced Ales, les Wheat Ales et les bières spéciales."
+    },
+    {
+        "name": "WLP320 American Hefe Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2080-wlp320-american-hefe-ale-white-labs-purepitch-812075020384.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Contrairement à la Hefeweizen Ale Yeast, cette levure produit une quantité très faible de notes de banane et de clou de girofle. Elle produit du soufre, mais c'est une levure à fermentation nette qui ne flocule pas bien, ce qui produit une bière trouble."
+    },
+    {
+        "name": "WLP300 Hefeweizen Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2079-wlp300-hefeweizen-ale-white-labs-purepitch-812075020377.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure allemande célèbre est une souche utilisée dans la production de bières de blé traditionnelles et authentiques. Elle produit des notes de banane et de clou de girofle traditionnellement associées aux bières de blé allemandes tout en laissant l'aspect trouble typique de ces bières."
+    },
+    {
+        "name": "WLP080 Cream Ale Blend - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2074-wlp080-cream-ale-blend-white-labs-purepitch-812075020346.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "C'est un mélange de levures de bière de basse et haute fermentation. Ensemble, ces souches créent une ale nette, pétillante et légère, de style lager américain. On peut percevoir un arôme d'ester agréable, découlant de la présence de la levure de bière de haute fermentation. Les saveurs et l'amertume du houblon sont légèrement atténuées. La légère production de soufre pendant la fermentation est due à la levure de bière de basse fermentation."
+    },
+    {
+        "name": "WLP060 American Ale Blend - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2070-wlp060-american-ale-blend-white-labs-purepitch-812075020285.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Notre souche de levure la plus populaire est la California Ale Yeast. Ce mélange rend hommage à la Californie - par sa fermentation nette et neutre ainsi que son utilisation polyvalente - et contient 2 autres souches au goût net et neutre. Les souches additionnelles confèrent une certaine complexité à la bière finie. Ce mélange a plus le goût des bières de basse fermentation que la California Ale Yeast. Les saveurs et l'amertume du houblon sont accentuées, mais moins qu'avec la California. Production légère de soufre pendant la fermentation."
+    },
+    {
+        "name": "WLP051 California Ale V - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2069-wlp051-california-ale-v-white-labs-purepitch-812075020278.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "De Californie du Nord. Cette souche est plus fruitée que la California Ale Yeast et son taux de floculation est légèrement plus élevé. Son pouvoir d'atténuation est plus faible, ce qui donne une bière plus corsée qu'avec la California Ale Yeast."
+    },
+    {
+        "name": "WLP041 Pacific Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2065-wlp041-pacific-ale-white-labs-purepitch-812075020247.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une levure de bière de haute fermentation populaire du Nord-Ouest Pacifique. Cette levure rend la bière très claire et laisse un goût malté. Plus fruitée que l'English Ale Yeast. Elle est idéale pour les bières de haute fermentation de style anglais, notamment les Milds, les Bitters, les IPA, les Porters et les Stouts."
+    },
+    {
+        "name": "WLP036 Dusseldorf Alt Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2064-wlp036-dusseldorf-alt-ale-white-labs-purepitch-812075020216.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure Alt traditionnelle produite à Dusseldorf, en Allemagne. Produit des bières Alt claires, légèrement sucrées. N'accentue pas le goût de houblon comme la German Ale/Kölsch Yeast."
+    },
+    {
+        "name": "WLP028 Edinburgh Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2062-wlp028-edinburgh-ale-white-labs-purepitch-812075020193.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "L'Écosse est réputée pour ses bières de haute fermentation fortes et maltées. Cette levure peut reproduire les ales complexes et aromatiques de style écossais. Elle forme une souche classique, similaire à la California Ale Yeast. Le caractère houblonné n'est pas atténué comme c'est le cas avec l'English Ale Yeast. Convient au bourbon et au whisky de style écossais."
+    },
+    {
+        "name": "WLP023 Burton Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2061-wlp023-burton-ale-white-labs-purepitch-812075020186.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Arômes de pomme, de miel de trèfle et de poire. Idéale pour tous les styles anglais, IPA, Bitters et Pales. Excellente dans les Porters et les Stouts."
+    },
+    {
+        "name": "WLP008 East Coast Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2058-wlp008-east-coast-ale-white-labs-purepitch-812075020124.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Notre souche Brewer Patriot peut être utilisée pour reproduire bon nombre de bières classiques de style américain. Caractère neutre similaire à la California Ale Yeast, mais avec un pouvoir d'atténuation plus faible, des notes d'amertume houblonnée plus légères, un taux de floculation plus élevé et un peu d'acidité. Très nette, esters faibles. Levure idéale pour les Golden Ales, Blonde Ales, Honey Ales, Pale Ales et bières de haute fermentation allemandes de style Alt."
+    },
+    {
+        "name": "Levure à vin WYEAST 4184 Sweet Mead",
+        "brand": "Wyeast",
+        "link": "https://www.rolling-beers.fr/fr/wyeast/2341-levure-a-vin-wyeast-4184-sweet-mead.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Levure spécialement appropriée pour la production d'un hydromel sucré présentant 2-3% de sucres résiduels et des arômes fruités d'une grande richesse. Egalement appropriée pour les vins fruités plus sucrés, comme les vins à base de pêches, de cerises, de framboises… Utilisez du sel nutritif supplémentaire pour la levure dans le cadre de la production d'hydromels. Plage de températures: 18-25°C. Sucres résiduels: 2-3%."
+    },
+    {
+        "name": "WLP645 Brettanomyces Claussenii. - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2595-wlp645-brettanomyces-claussenii-white-labs-purepitch.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Originally isolated from strong English stock beer in the early 20th century, this yeast has low-intensity Brettanomyces character and is closely related to Brettanomyces anomalus. It produces more fruity, pineapple-like aroma than flavor; the Brettanomyces flavors are more subtle than WLP650 and WLP653."
+    },
+    {
+        "name": "WLP650 Brettanomyces Bruxellensis. - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2875-wlp650-brettanomyces-bruxellensis-white-labs-purepitch.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Une souche classique utilisée pendant la fermentation secondaire des bières de style belge et des lambics qui crée un caractère Brettanomyces d'intensité moyenne. Une brasserie historique de Belgique utilise cette levure lors de la fermentation secondaire et de la mise en bouteille pour produire la saveur caractéristique de sa bière."
+    },
+    {
+        "name": "WLP677 - Lactobacillus delbrueckii",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2582-wlp677-lactobacillus-delbrueckii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "De White Labs : Ces bactéries lactiques produisent des niveaux modérés d'acidité et des saveurs aigres que l'on retrouve dans les lambics, Berliner Weisse, sour ales brunes et gueuze.\""
+    },
+    {
+        "name": "Lactobacillus Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2580-lactobacillus-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "<span style=\"font-size:14px;\">Le Lactobacillus Blend comprend trois souches<em> de Lactobacillus plantarum</em>, <em>Lactobacillus brevis</em> et d'une souche de <em>Lactobacillus </em>isolées à partir d'un brasseur Américain de bières sour qui a retourné un séquençage de </span>"
+    },
+    {
+        "name": "Farmhouse Sour Ale",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2579-farmhouse-sour-ale.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Farmhouse Sour Ale est un mélange de "
+    },
+    {
+        "name": "Mélange - Sour Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2578-melange-sour-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Si vous recherchez à produire des sours complexes, consultez également la souche maison de The Yeast Bay similaire à la souche \"Mélange\", avec d'autres souches de "
+    },
+    {
+        "name": "Saison/Brettanomyces Blend II",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2576-saison-brettanomyces-blend-ii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Les cultures incluses dans ce nouveau blend unique sont deux "
+    },
+    {
+        "name": "Brussels Brettanomyces Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2570-brussels-brettanomyces-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange contient une souche isolée de "
+    },
+    {
+        "name": "Amalgamation II - Brett Super Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2568-amalgamation-ii-brett-super-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Le prochain épisode de notre \"Brett Super Blend\", Amalgation II est un mélange de 5 "
+    },
+    {
+        "name": "Amalgamation - Brett Super Blend",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2567-amalgamation-brett-super-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Amalgation est l'union de nos six souches de "
+    },
+    {
+        "name": "Dry Belgian Ale",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2558-dry-belgian-ale.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "La Dry Belgian Ale est une souche unique de Saccharomyces cerevisiae isolée d'une bière forte blonde unique. Le profil est un mélange complexe et équilibré de pomme, de poire et d'agrumes légers avec des notes légèrement épicées et poivrées. L'atténuation apparente de cette souche varie de 85 à 100%, en fonction du profil d'empatage et de la composition du grist."
+    },
+    {
+        "name": "Wallonian Farmhouse III",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2554-wallonian-farmhouse-iii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Il s'agit d'une souche unique de Saccharomyces cerevisiae isolée d'une brasserie bien connue originaire de la région wallonne de Belgique. Cette souche est aussi atténuante que notre Wallonian Farmhouse originale et présente un profil plus équilibré d'esters et de phénols. Cette levure est similaire à une souche de saison classique offerte par de nombreux autres fabricants de levure, sans les problèmes d'atténuation lente / faible et de calage souvent observés dans ces cultures. Wallonian Farmhouse III fonctionne très bien avec Brettanomyces en raison de son profil équilibré et complexe d'ester et de phénol."
+    },
+    {
+        "name": "Midwestern Ale",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/2551-midwestern-ale.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "La levure Midwestern Ale est une souche unique de Saccharomyces cerevisiae isolée à partir d'une brasserie historique du cœur de l'Amérique, bien adapté à la fermentation d'un large éventail de moûts."
+    },
+    {
+        "name": "WLP648 Brettanomyces bruxellensis Trois Vrai - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2907-wlp648-brettanomyces-bruxellensis-trois-vrai-white-labs-purepitch.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "La vraie Brettanomyces bruxellensis Trois. Cette souche célèbre, utilisée pour toutes les fermentations de Brettanomyces, possède un caractère acide robuste et complexe avec des arômes de poire. A utiliser de préférence comme souche de fermentation primaire."
+    },
+    {
+        "name": "WLE4100 Ultra Ferm",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/2908-1354-wle4100-ultra-ferm.html#/162-volume-10ml",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "4.44€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "1) To reduce saccharification times."
+    },
+    {
+        "name": "WLP067 Coastal Haze Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/3075-wlp067-coastal-haze-ale-white-labs-purepitch-812075021237.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange de nos souches IPA préférées de style Nouvelle-Angleterre est idéal pour produire des bières à l'aspect brumeux et aux esters tropicaux et fruités. En produisant des bières sèches, mais juteuses, les caractéristiques de la mangue et de l'ananas contribueront à une meilleure buvabilité."
+    },
+    {
+        "name": "Saison/Brettanomyces Blend / commande 68005",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/3453-saison-brettanomyces-blend-commande-68005.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange contient une souche "
+    },
+    {
+        "name": "WLP066 London Fog Ale Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3524-wlp066-london-fog-ale-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "C'est la souche idéale pour les IPA de style Nouvelle-Angleterre. Elle produit un profil ester moyen similaire à celui de la levure WLP008 East Coast Ale. Elle laisse une certaine douceur résiduelle, ce qui contribue à accentuer les saveurs et les arômes de malt et de houblon, tout en conservant une sensation veloutée en bouche."
+    },
+    {
+        "name": "WLP1983 Charlie's Fist Bump Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3528-wlp1983-charlie-s-fist-bump-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "No data€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ales:   "
+    },
+    {
+        "name": "WLP518 Opshaug Kveik Ale Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3530-wlp518-opshaug-kveik-ale-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Provenant de notre ami Lars Marius Garshol, cette souche kveik a été isolée d'une culture mixte appartenant à Harald Opshaug, un brasseur fermier de Stranda, en Norvège. Cette souche a été utilisée à l'origine dans les années 1990 pour produire plusieurs bières de style kornøl. Il s'agit d'une levure à fermentation propre qui a toléré des températures allant jusqu'à 35°C (95°F) tout en terminant la fermentation en trois ou quatre jours. Les caractéristiques de cette souche, axées sur le houblon, en font une levure idéale pour les IPA et les ales pâles."
+    },
+    {
+        "name": "WLP630 Berliner Weisse Blend",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3536-wlp630-berliner-weisse-blend.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Un mélange de levure weizen allemande et de bactéries Lactobacillus pour créer une bière subtilement acidulée et buvable. Ce mélange peut prendre plusieurs mois pour développer son caractère acidulé, ce qui le rend parfait pour le brassage d'une Berliner Weisse traditionnelle."
+    },
+    {
+        "name": "WLP653 Brettanomyces lambicus",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3539-wlp653-brettanomyces-lambicus.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Cette levure produit une forte intensité des caractères traditionnels de Brettanomyces : saveurs chevalines, fumées et épicées dans la bière. Comme son nom l'indique, cette souche se retrouve le plus souvent dans les bières de style lambic, mais on la trouve aussi couramment dans les Flandres et les ales brunes acides. Découvrez notre recette de Brett saison vieillie en fût de chêne utilisant la WLP653 Brettanomyces lambicus ici. La WLP653 Brettanomyces lambicus est POF+, cette souche contribuera aux caractéristiques phénoliques des produits finis."
+    },
+    {
+        "name": "WLP655 Belgian Sour Mix 1",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3540-wlp655-belgian-sour-mix-1.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Un mélange unique de levures Brettanomyces et Saccharomyces ainsi que de souches bactériennes Lactobacillus et Pediococcus. Parfait pour reproduire les fermentations spontanées traditionnelles semblables à celles que l'on trouve dans les ales de style belge. WLP655 Belgian Sour Mix 1 est POF+, cette souche apportera des caractéristiques phénoliques aux produits finis."
+    },
+    {
+        "name": "WLP675 Malolactic Cultures",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3545-wlp675-malolactic-cultures.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "La fermentation malolactique est la transformation de l'acide malique en acide lactique par des bactéries de la famille des bactéries lactiques. L'acide lactique est moins acide que l'acide malique, ce qui diminue l'acidité et aide à adoucir et/ou à arrondir certains des arômes du vin. Ces cultures liquides sont disponibles en flacons pour inoculer 6 gallons ou en formats de 1 litre pour inoculer 60 gallons. Remarque : Nous recommandons de faire preuve de prudence en utilisant WLP675 avec des kits de vin, qui contiennent du sorbate de potassium et affectent la viabilité des bactéries malolactiques."
+    },
+    {
+        "name": "WLP519 Stranda Kveik Ale Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3747-wlp519-stranda-kveik-ale-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Stranda est une souche kveik appartenant à Stein Langlo de Stranda, en Norvège. Considéré comme une souche kveik \"plus propre\", Stranda peut également produire une large gamme de bières sur une large plage de température. Elle est idéale dans les cas où la température de fermentation n'est pas ou peu contrôlée."
+    },
+    {
+        "name": "WLP618 Saccharomycodes ludwigii",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3750-wlp618-saccharomycodes-ludwigii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Bien qu'elle soit classée dans la catégorie des levures sauvages, cette souche n'est généralement pas considérée comme contaminante car elle n'a pas la capacité de fermenter des sucres plus importants. L'utilisation de cette souche pour créer une bière à faible teneur en alcool nécessite une recette modifiée. STA1 : Négatif"
+    },
+    {
+        "name": "WLP672 Lactobacillus brevis",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3751-wlp672-lactobacillus-brevis.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": " "
+    },
+    {
+        "name": "WLP631 Appalachian Tart",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3833-wlp631-appalachian-tart.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange spécial de levure Kveik et de Lactobacillus sp. a été conçu pour créer une co-fermentation unique de levure et de bactéries, ce qui donne une bière légèrement fruitée et acidulée. La fermentation simultanée de la levure et des bactéries permet d'obtenir un profil d'amertume plus rapide et plus net. Ce mélange est idéal pour les styles de bière comme la Berliner Weisse, la Gose ou les bières expérimentales. Lorsqu'elle est fermentée à 27°C ou plus, la fermentation peut être achevée en 72 heures."
+    },
+    {
+        "name": "Pakruojis Lithuanian Farmhouse",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4004-pakruojis-lithuanian-farmhouse.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "<span style=\"font-family:Arial, Helvetica, sans-serif;\"><a class=\"superbutton2\" href=\"/fr/content/40-levure-liquide-comment-les-utiliser\">Pakruojis Lithuanian Farmhouse est une souche unique de STA1 + Saccharomyces cerevisiae, isolée d’une brasserie lituanienne. Cette levure produit de la bière avec une sensation en bouche sèche, croustillante et soyeuse, un profil ester d’agrumes complexes et un coté terreux rustique équilibré avec des nuances de poivre blanc. Cette souche présente une activité diastatique élevée.<br/>\nTempérature: 75-95 ° F (27-35 ° C) || Atténuation: 90-100%<br/>\nFloculation : faible || Tolérance à l’alcool : Élevée</a></span>"
+    },
+    {
+        "name": "LIDA KVEIK",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4007-lida-kveik.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Error reading description"
+    },
+    {
+        "name": "Levure Liquide FORAGER",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4009-levure-liquide-forager.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Forager est une souche unique de STA1+ Saccharomyces cerevisiae var. boulardii isolée du nid d’abeille de la récolte de printemps. Elle confère une saveur et un profil aromatique de moût de raisin sauvignon blanc et de zeste de citron vert sec et produit de la bière avec une finition sèche et terreuse. La série de saisons Wild Queen de Wolves &People a été lancée avec un mélange basé sur Forager."
+    },
+    {
+        "name": "Metschnikowia Reukaufii",
+        "brand": "Generic",
+        "link": "https://www.rolling-beers.fr/fr/the-yeast-bay/4014-metschnikowia-reukaufii.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "12.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "<strong><span style=\"font-size:14px;\"><span style=\"font-family:Arial, Helvetica, sans-serif;\">Cette souche DOIT être utilisée en conjonction avec d’autres levures capables de fermenter le moût de bière (capable de fermenter le maltose).</span></span></strong>"
+    },
+    {
+        "name": "WLP009 Australian Ale - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/2068-wlp009-australian-ale-white-labs-purepitch-812075020131.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Produit une bière nette, maltée. Notes d'esters agréables, goût brioché. Fermente bien à des températures plus élevées. Cette levure combine un bon taux de floculation et un bon pouvoir d'atténuation."
+    },
+    {
+        "name": "WLP561 Non STA1son Ale Yeast - White Labs - PurePitch™",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/toutes-les-levures-liquides/3726-wlp561-non-sta1son-ale-yeast-white-labs-purepitch-812075020513.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Ce mélange de souches STA1 négatives produit une expression complexe d'esters et de phénols idéale pour les bières de saison et les bières de ferme sans le potentiel de super-atténuation communément associé à de nombreuses souches de type belge. Les essais commerciaux et le panel sensoriel de White Labs Brewing Co. ont permis d'identifier des notes fruitées de cette souche, allant du citron et des fruits tropicaux à la camomille, ainsi qu'une série d'arômes phénoliques de type épicé, comme le poivre, le clou de girofle et la coriandre."
+    },
+    {
+        "name": "WLP520 Sigmund Kveik Ale Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3748-wlp520-sigmund-kveik-ale-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Sigmund est une souche Kveik partagée par Sigmund Gjernes de Voss, en Norvège. Également connue sous le nom de Voss Kveik, cette souche peut produire des saveurs terreuses avec une touche d'arômes d'écorce d'orange."
+    },
+    {
+        "name": "WLP521 Hornindal Kveik Ale Yeast",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3749-wlp521-hornindal-kveik-ale-yeast.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Le Hornindal est une souche Kveik partagée avec le monde entier par Terje Raftevold de Hornindal, en Norvège. Elle produit une saveur et des arômes tropicaux intenses avec des notes de mandarine, de mangue et d'ananas frais, idéale pour être utilisée avec les houblons fruités."
+    },
+    {
+        "name": "WLP686 Zygosaccharomyces Lentus",
+        "brand": "White Labs",
+        "link": "https://www.rolling-beers.fr/fr/white-labs/3752-wlp686-zygosaccharomyces-lentus.html",
+        "abv_tol": "NA",
+        "floculation": "NA",
+        "attenuation_range": [
+            "NA",
+            "NA"
+        ],
+        "price": "9.9€",
+        "temp_range": [
+            "NA",
+            "NA"
+        ],
+        "description": "Bien qu'elle soit classée dans la catégorie des levures sauvages, cette souche n'est généralement pas considérée comme contaminante car elle n'a pas la capacité de fermenter des sucres plus importants. L'utilisation de cette souche pour créer une bière à faible teneur en alcool nécessite une recette modifiée. STA1 : Négatif"
+    }
+]

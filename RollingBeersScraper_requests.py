@@ -8,6 +8,8 @@ import json
 from json import JSONEncoder
 import sys
 
+from requests.models import Response
+
 class Brand :
     def __init__(self, name, pattern, regex : bool):
         self.name = name
@@ -138,17 +140,17 @@ class NotAYeastError(Exception):
 # Finds all available yeasts with their names and links to their description page
 def parse_page(page_link, yeasts : list) :
 
-    reqUrl = "https://www.rolling-beers.fr/fr/55-toutes-les-liquides"
     headersList = {
      "Accept": "*/*",
      "User-Agent": "Thunder Client (https://www.thunderclient.io)"
     }
-    payload = ""
 
-    response = requests.request("GET", reqUrl, data=payload,  headers=headersList)
-    print(response.status_code)
-    with open("/tmp/page.json", "w") as file :
-        file.writelines(json.dumps(response.text))
+    response = requests.get(page_link, headers=headersList)
+    print("Reading page {}".format(page_link))
+    if response.status_code >= 400:
+        print("Could not read page, caught error {}".format(response.status_code))
+        print("Response error message is {}".format(response.text))
+        return ''
 
     contents = response.content
     soup = BeautifulSoup(contents, 'html.parser')
@@ -167,8 +169,19 @@ def parse_page(page_link, yeasts : list) :
     return ''
 
 def parse_yeast(yeast : Yeast) :
-    page = requests.get(yeast.link)
-    contents = page.content
+    headersList = {
+     "Accept": "*/*",
+     "User-Agent": "Thunder Client (https://www.thunderclient.io)"
+    }
+    response = requests.get(yeast.link, headers=headersList)
+    print("Reading yeast data for {}".format(yeast.name))
+    if response.status_code >= 400:
+        print("Could not read page, caught error {}".format(response.status_code))
+        print("Response error message is {}".format(response.text))
+        return yeast
+
+
+    contents = response.content
     soup = BeautifulSoup(contents, 'html.parser')
     price_div = soup.find('div', attrs={'class':'current-price'})
     try:
@@ -185,8 +198,11 @@ def parse_yeast(yeast : Yeast) :
 
     all_p_blocks = description_section.find_all('p')
     # Shitty code because all yeasts are not all displayed the same way
-    description_block = all_p_blocks[1] if (len(all_p_blocks) > 1) else all_p_blocks[0]
-    yeast.description = description_block.next
+    try:
+        description_block = all_p_blocks[1] if (len(all_p_blocks) > 1) else all_p_blocks[0]
+        yeast.description = str(description_block.next) if description_block.next is not None else ''
+    except Exception :
+        yeast.description = "Error reading description"
 
     floculation =  description_section.find('strong', string=re.compile("Floculation.*"))
     attenuation = description_section.find('strong', string=re.compile("Atténuation.*"))
