@@ -1,6 +1,8 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 # https://elitedatascience.com/python-web-scraping-libraries
+from distutils.log import error
+from shutil import ExecError
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -187,7 +189,7 @@ def parse_yeast(yeast : Yeast) :
     try:
         price_span = price_div.find('span', attrs={'itemprop' : 'price'})
         yeast.price = price_span.attrs['content']
-    except AttributeError:
+    except AttributeError or Exception:
         yeast.price = 'No data'
 
     name_field = soup.find('h1', attrs={'itemprop' : 'name'})
@@ -233,13 +235,6 @@ def parse_yeast(yeast : Yeast) :
     return yeast
 
 
-def parse_args(args):
-    out = {}
-    for arg in args[1:] :
-        if arg == "-j" or arg == "--json" :
-            out['json'] = True
-    return out
-
 def removed_mislabled_yeasts(yeasts_collection : list, mislabled_yeasts : list):
     out_yeasts = []
     for yeast in yeasts_collection :
@@ -252,9 +247,8 @@ def removed_mislabled_yeasts(yeasts_collection : list, mislabled_yeasts : list):
             out_yeasts.append(yeast)
     return out_yeasts
 
-def main(args):
-    parsed_args = parse_args(args)
-    yeasts = list()
+def main(args) -> int :
+    yeasts : list[Yeast] = []
 
     # Use the pagination item to loop until reaching the end of the catalogue
     # then use each prerecorded link to isolate data from each yeast (abv, floculation, etc...)
@@ -263,20 +257,33 @@ def main(args):
         link = parse_page(link, yeasts)
 
     mislabled_yeasts = []
+    errors_yeasts : list[Yeast] = []
     for yeast in yeasts :
         try:
             yeast = parse_yeast(yeast)
             yeast.format_data()
         except NotAYeastError:
             mislabled_yeasts.append(yeast)
+        except Exception :
+            errors_yeasts.append(yeast)
+
 
     yeasts = removed_mislabled_yeasts(yeasts, mislabled_yeasts)
 
-    if 'json' in parsed_args.keys() and parsed_args['json'] == True :
-        content = json.dumps([ob.get_dict() for ob in yeasts], indent=4, ensure_ascii=False)
-        with open('yeasts.json','w') as file :
-            file.writelines(content)
+    # Dump content to a file
+    content = json.dumps([ob.get_dict() for ob in yeasts], indent=4, ensure_ascii=False)
+    with open('yeasts.json','w') as file :
+        file.writelines(content)
+
+    # Handle errors
+    if len(errors_yeasts) != 0 :
+        print("Found issues while parsing the following yeasts :")
+        for yeast in errors_yeasts :
+            print("Yeast : {} , {}".format(yeast.name, yeast.brand))
+
+    print("Successfully scraped rolling beers website !")
+    return 0
 
 if __name__ == "__main__" :
-    main(sys.argv)
+    exit(main(sys.argv))
 
