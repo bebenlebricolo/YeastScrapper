@@ -1,0 +1,53 @@
+[
+    {
+        "name": "WYEAST 1056 AMERICAN ALE",
+        "brand": "Wyeast",
+        "link": "mpihefmehf",
+        "abv_tol": "11%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "73%",
+            "77%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "22°C"
+        ],
+        "description": "Caractéristiques de saveur très propres, craquantes avec un fruité faible et une production d'ester douce. Une levure très polyvalente pour les styles necessitant une dominante portée sur le malt et le houblon. Cette souche fait une merveilleuse souche \"Maison\". De douces notes d'agrumes se développent avec des fermentations plus froides à 15-19 ºC. Exige une filtration pour des bières limpides/brillantes."
+    },
+    {
+        "name": "WYEAST 1214 BELGIAN ABBEY",
+        "brand": "Wyeast",
+        "link": "ùpzdjgùazgj",
+        "abv_tol": "12%",
+        "floculation": " Moyenne à Basse",
+        "attenuation_range": [
+            "74%",
+            "78%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "20°C",
+            "24°C"
+        ],
+        "description": "Largement utilisée et tolérante à l'alcool, la levure d'Abbaye est appropriée pour une variété de bières de style belges. Cette souche produit un profil d'ester agréable ainsi que des notes d'alcool légèrement épicées. Elle peut être lente à démarrer mais elle a cependant une bonne atténuation."
+    },
+    {
+        "name": "WYEAST 1272 AMERICAN ALE II",
+        "brand": "Wyeast",
+        "link": "ùdgagh",
+        "abv_tol": "10%",
+        "floculation": " Moyenne",
+        "attenuation_range": [
+            "72%",
+            "76%"
+        ],
+        "price": "10.9€",
+        "temp_range": [
+            "15°C",
+            "22°C"
+        ],
+        "description": "Avec beaucoup des meilleures qualités que les brasseurs recherchent en couvant les styles de bière américains, la performance de cette souche est cohérente et elle produit de grandes bières. Cette souche polyvalente est un très bon choix pour une souche \"Maison\". Attendez-vous à un profil doux, propre avec des allusions de noix et une fin légèrement âpre. Fermentez à des températures plus élevées pour accentuer le caractère houblonné avec une augmentation du coté fruité. Ou fermentez à des températures plus basses pour un caractère plus clean et d'agrumes léger. Elle atténue bien et floccule de façon fiable, produisant une bière brillante sans filtration."
+    }
+]
