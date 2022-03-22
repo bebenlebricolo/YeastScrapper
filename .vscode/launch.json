@@ -10,9 +10,9 @@
             "request": "launch",
             "program": "${file}",
             "args": [
-                "-j"
+                "--json"
             ],
-            "console": "integratedTerminal"
+            "console": "internalConsole"
         }
     ]
 }
